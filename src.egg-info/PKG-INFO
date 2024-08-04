@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Author: entbappy
+Author-email: kf_chaouche@esi.dz
+License: MIT
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy==1.23.5
+Requires-Dist: pandas==1.5.3
